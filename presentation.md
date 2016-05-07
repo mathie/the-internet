@@ -1,7 +1,7 @@
 footer: © 2015 Graeme Mathieson. CC BY-SA 4.0.
 slidenumbers: true
 
-# Type “google.com” into you browser and hit enter
+# Type “google.com” into the browser and hit enter
 ## What happens next?
 
 ^ I haven’t done any interviewing for a while but I went through a period of growth in one of the companies I worked for where we were feverishly expanding the development team, so we had to be a little more systematic in our approach to interviewing. Instead of just having an open conversation with candidates to see where it led (which is what I’d previously done in such situations), I wound up preparing a ‘standard’ set of questions. It took a few goes, but eventually I settled on a favourite question for the technical portion of the interview:
